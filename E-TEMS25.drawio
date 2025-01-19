@@ -504,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oyzIirJCvqnztlxygpwI" name="Page-4">
-    <mxGraphModel dx="442" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="349" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -806,14 +806,11 @@
         <mxCell id="rf8mhLL5gHxWc6-XxMYZ-14" value="Virtual Functions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Em5AZrrKk6eljFUYIyYQ-290" vertex="1">
           <mxGeometry x="150" y="50" width="100" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="rf8mhLL5gHxWc6-XxMYZ-15" value="Polymorphism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Em5AZrrKk6eljFUYIyYQ-290" vertex="1">
-          <mxGeometry x="180" y="64" width="80" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="rf8mhLL5gHxWc6-XxMYZ-16" value="LINQ (C#)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Em5AZrrKk6eljFUYIyYQ-290" vertex="1">
-          <mxGeometry x="150" y="79" width="60" height="20" as="geometry" />
+          <mxGeometry x="170" y="74" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oSe34_kl9zR1LYeQ7nEN-1" value="RVM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Em5AZrrKk6eljFUYIyYQ-290" vertex="1">
-          <mxGeometry x="190" y="99" width="70" height="20" as="geometry" />
+        <mxCell id="oSe34_kl9zR1LYeQ7nEN-1" value="Runtime VM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Em5AZrrKk6eljFUYIyYQ-290" vertex="1">
+          <mxGeometry x="165" y="99" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Em5AZrrKk6eljFUYIyYQ-291" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="602" y="200" width="210" height="150" as="geometry" />
@@ -1509,6 +1506,12 @@
         </mxCell>
         <mxCell id="Em5AZrrKk6eljFUYIyYQ-343" value="&lt;font&gt;❞&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=8;fontStyle=1;resizable=1;fillColor=#dae8fc;fontColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="252" y="315" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Em5AZrrKk6eljFUYIyYQ-345" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;resizable=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="960" width="620" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Em5AZrrKk6eljFUYIyYQ-346" value="C2&lt;br&gt;Container" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
