@@ -2052,7 +2052,7 @@
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-273" value="E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WVZV9QddICV2gVdAtN72-1">
           <mxGeometry x="82" y="176" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dd4EgZk937Zu8RXDsmiJ-274" value="F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WVZV9QddICV2gVdAtN72-1">
+        <mxCell id="dd4EgZk937Zu8RXDsmiJ-274" value="F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#F8CECC;strokeColor=#36393d;gradientColor=light-dark(#FFFF88,#212100);gradientDirection=east;" vertex="1" parent="WVZV9QddICV2gVdAtN72-1">
           <mxGeometry x="162" y="122" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-275" value="G" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=light-dark(#FFFF88,#009900);gradientDirection=east;" vertex="1" parent="WVZV9QddICV2gVdAtN72-1">
