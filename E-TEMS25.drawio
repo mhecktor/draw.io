@@ -1674,7 +1674,7 @@
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-55">
           <mxGeometry x="24" y="16" width="240" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="dd4EgZk937Zu8RXDsmiJ-57" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=34;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-55">
+        <mxCell id="dd4EgZk937Zu8RXDsmiJ-57" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=34;fillColor=#ffff88;strokeColor=#36393d;gradientColor=#FFCCCC;gradientDirection=west;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-55">
           <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-58" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Idioms&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-55">
@@ -1785,7 +1785,7 @@
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-88" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-87">
           <mxGeometry x="24" y="16" width="186" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="dd4EgZk937Zu8RXDsmiJ-89" value="F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=34;fillColor=#ffff88;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-87">
+        <mxCell id="dd4EgZk937Zu8RXDsmiJ-89" value="F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=34;fillColor=#ffff88;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#FFCCCC;gradientDirection=west;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-87">
           <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-90" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;API Usage&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dd4EgZk937Zu8RXDsmiJ-87">
@@ -2277,7 +2277,7 @@
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-194" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WVZV9QddICV2gVdAtN72-3">
           <mxGeometry x="32" y="17" width="201" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="dd4EgZk937Zu8RXDsmiJ-195" value="G" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=34;fillColor=#ffff88;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WVZV9QddICV2gVdAtN72-3">
+        <mxCell id="dd4EgZk937Zu8RXDsmiJ-195" value="G" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=34;fillColor=#ffff88;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#FFCCCC;gradientDirection=west;" vertex="1" parent="WVZV9QddICV2gVdAtN72-3">
           <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dd4EgZk937Zu8RXDsmiJ-196" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Resource Usage&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WVZV9QddICV2gVdAtN72-3">
