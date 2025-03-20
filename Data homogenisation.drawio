@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.13">
+  <diagram name="Page-1" id="aw-RRsx1uJZYShowe6nO">
+    <mxGraphModel dx="931" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="dCTxIKSOGZd6r2cbZSmC-2" target="dCTxIKSOGZd6r2cbZSmC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dCTxIKSOGZd6r2cbZSmC-2" target="dCTxIKSOGZd6r2cbZSmC-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-7" value="1..n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dCTxIKSOGZd6r2cbZSmC-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.15" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-2" value="Data Domain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-3" value="Spatial Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-5" value="Granularity&lt;div&gt;Level&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-8" value="Level 1&lt;div&gt;Worldwide&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-10" value="Level 2&lt;div&gt;Country&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="150" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-12" value="Level 3&lt;div&gt;Macro-Regions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-13" value="Level 4&lt;div&gt;States&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="250" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-14" value="Level 5&lt;div&gt;Governorates/Autonomous regions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.openstreetmap.org/w/images/thumb/a/ae/Administrative_Gliederung_Deutschlands_admin_level.png/521px-Administrative_Gliederung_Deutschlands_admin_level.png;" parent="1" vertex="1">
+          <mxGeometry x="569" width="281" height="131.6" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-16" value="Level 6&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Districts/Counties&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-18" value="Germany" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="569" y="155" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-19" value="Rarely Used =&amp;gt;&amp;nbsp;U.S. Census Regions (North, East, South, West)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="569" y="205" width="251" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-20" value="NRW" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="569" y="255" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dCTxIKSOGZd6r2cbZSmC-21" value="Regierungsbezirk Arnsberg" style="text;whiteSpace=wrap;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="569" y="350" width="161" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
