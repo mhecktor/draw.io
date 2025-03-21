@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="Page-1" id="2hKn3ZkleHyxyx8VYE8p">
-    <mxGraphModel dx="728" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="ejbyMQVrseZ_3oAPEjQX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="ejbyMQVrseZ_3oAPEjQX-4" target="ejbyMQVrseZ_3oAPEjQX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ejbyMQVrseZ_3oAPEjQX-4" value="Problem identifizieren &amp;amp; Motivieren" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ejbyMQVrseZ_3oAPEjQX-4" value="Problem identifizieren &amp;amp; motivieren" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="30" y="157" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ejbyMQVrseZ_3oAPEjQX-8" value="Mögliche Forschungs-Einstiegspunkte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -100,11 +100,28 @@
         <mxCell id="ejbyMQVrseZ_3oAPEjQX-45" value="Ziel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="mZFxJRYtCEkQgxYtFt5B-2" vertex="1">
           <mxGeometry x="185" y="7" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ejbyMQVrseZ_3oAPEjQX-46" value="Ziel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="mZFxJRYtCEkQgxYtFt5B-2" vertex="1">
+        <mxCell id="ejbyMQVrseZ_3oAPEjQX-46" value="Artefakte &amp;amp; Ideen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="mZFxJRYtCEkQgxYtFt5B-2" vertex="1">
           <mxGeometry x="355" y="5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ejbyMQVrseZ_3oAPEjQX-50" value="Externe Anfrage/&lt;div&gt;Kontext&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="mZFxJRYtCEkQgxYtFt5B-2" vertex="1">
           <mxGeometry x="525" y="7" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ry-p3Q3aDxuBaAh1AS9Z" name="Page-2">
+    <mxGraphModel dx="1810" dy="1708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dGTmGl2b5kugi842PAGj-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4T1VOcRg8sT1GUbAN6d6-1" target="dGTmGl2b5kugi842PAGj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4T1VOcRg8sT1GUbAN6d6-1" value="Problem identifizieren &amp;amp; motivieren" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-173" y="-405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGTmGl2b5kugi842PAGj-1" value="Schlussfolgerung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-173" y="-307" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
