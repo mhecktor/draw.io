@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ry-p3Q3aDxuBaAh1AS9Z" name="Page-2">
-    <mxGraphModel dx="619" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,28 +154,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-11" value="Demonstration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;" edge="1" parent="1" source="dGTmGl2b5kugi842PAGj-13" target="dGTmGl2b5kugi842PAGj-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-13" value="Metriken&lt;div&gt;Analysen&lt;/div&gt;&lt;div&gt;Wissen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="dGTmGl2b5kugi842PAGj-15" target="dGTmGl2b5kugi842PAGj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-15" value="Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" width="120" height="60" as="geometry" />
+          <mxGeometry y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;" edge="1" parent="1" source="dGTmGl2b5kugi842PAGj-17" target="dGTmGl2b5kugi842PAGj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-17" value="Fachwissen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGTmGl2b5kugi842PAGj-19" value="Kommunikation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
