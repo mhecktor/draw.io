@@ -158,14 +158,14 @@
         <mxCell id="fj1dRr-fl-aeqGP-18P_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-4" target="dCTxIKSOGZd6r2cbZSmC-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fj1dRr-fl-aeqGP-18P_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-4" target="fj1dRr-fl-aeqGP-18P_-10">
+        <mxCell id="fj1dRr-fl-aeqGP-18P_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-4" target="fj1dRr-fl-aeqGP-18P_-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fj1dRr-fl-aeqGP-18P_-4" value="Data Representation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj1dRr-fl-aeqGP-18P_-6" value="Geographical Coordinates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="100" height="40" as="geometry" />
+          <mxGeometry x="335" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj1dRr-fl-aeqGP-18P_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-4" target="fj1dRr-fl-aeqGP-18P_-6">
           <mxGeometry relative="1" as="geometry">
@@ -178,13 +178,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fj1dRr-fl-aeqGP-18P_-10" value="&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;Date&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="155" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1dRr-fl-aeqGP-18P_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-12" target="fj1dRr-fl-aeqGP-18P_-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fj1dRr-fl-aeqGP-18P_-12" value="Transformation&lt;div&gt;Rules&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="400" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fj1dRr-fl-aeqGP-18P_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-14" target="fj1dRr-fl-aeqGP-18P_-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="210" />
+              <mxPoint x="205" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj1dRr-fl-aeqGP-18P_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj1dRr-fl-aeqGP-18P_-14" target="fj1dRr-fl-aeqGP-18P_-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fj1dRr-fl-aeqGP-18P_-14" value="&lt;div&gt;Address&amp;nbsp;&lt;/div&gt;&lt;div&gt;To&lt;/div&gt;&lt;div&gt;Geocoordinates&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="155" y="180" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
