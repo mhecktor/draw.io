@@ -174,7 +174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Beispiel-3" id="Jw77foVc6G-fFuByaUol">
-    <mxGraphModel dx="582" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gok6PCj4hg2HWtp_SnZc-0" />
         <mxCell id="Gok6PCj4hg2HWtp_SnZc-1" parent="Gok6PCj4hg2HWtp_SnZc-0" />
@@ -245,7 +245,7 @@
             <mxPoint x="420" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_bU4E9Oonnk_LPGpfuB-0" value="Monolithischer&lt;br&gt;Backend&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gok6PCj4hg2HWtp_SnZc-1">
+        <mxCell id="V_bU4E9Oonnk_LPGpfuB-0" value="&lt;i&gt;Monolithischer&lt;/i&gt;&lt;br&gt;Backend&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gok6PCj4hg2HWtp_SnZc-1">
           <mxGeometry x="200" y="210" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V_bU4E9Oonnk_LPGpfuB-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Gok6PCj4hg2HWtp_SnZc-1" source="Gok6PCj4hg2HWtp_SnZc-5" target="V_bU4E9Oonnk_LPGpfuB-0">
