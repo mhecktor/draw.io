@@ -204,7 +204,7 @@
         <mxCell id="ExpbPH-TS6OV7dIHYH02-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#C5E6E8;fillColor=#C5E6E8;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="210" width="105" x="310" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="ExpbPH-TS6OV7dIHYH02-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+        <mxCell id="ExpbPH-TS6OV7dIHYH02-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#99CCFF;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="210" width="100" x="45" y="10" as="geometry" />
         </mxCell>
         <mxCell id="fW-341HD9nxiBrZKwuon-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Search Query" vertex="1">
