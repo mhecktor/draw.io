@@ -347,6 +347,24 @@
         <mxCell id="MWxIY18gMaUoUPOy4f6R-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Frankfurt&lt;br&gt;50 Mitarbeitende" vertex="1">
           <mxGeometry height="30" width="110" x="200" y="495" as="geometry" />
         </mxCell>
+        <mxCell id="MWxIY18gMaUoUPOy4f6R-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="220" x="820" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MWxIY18gMaUoUPOy4f6R-5" parent="MWxIY18gMaUoUPOy4f6R-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="140" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MWxIY18gMaUoUPOy4f6R-4" parent="MWxIY18gMaUoUPOy4f6R-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Freie Bereiche&lt;br&gt;&lt;br&gt;&lt;div&gt;Zu große Bereiche&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Genutzte Bereiche&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MWxIY18gMaUoUPOy4f6R-6" parent="MWxIY18gMaUoUPOy4f6R-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="20" width="60" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MWxIY18gMaUoUPOy4f6R-7" parent="MWxIY18gMaUoUPOy4f6R-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="20" width="60" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MWxIY18gMaUoUPOy4f6R-8" parent="MWxIY18gMaUoUPOy4f6R-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="60" x="20" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
