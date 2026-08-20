@@ -55,7 +55,7 @@
         <mxCell id="1n4INfQGS9GoEl3JeVme-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#01AECF;fontColor=#FFFFFF;" value="City Apps" vertex="1">
           <mxGeometry height="40" width="90" x="540" y="124" as="geometry" />
         </mxCell>
-        <mxCell id="1n4INfQGS9GoEl3JeVme-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#01AECF;strokeColor=none;" value="Analytische&amp;nbsp;&lt;br&gt;Verfahren" vertex="1">
+        <mxCell id="1n4INfQGS9GoEl3JeVme-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#01AECF;strokeColor=none;" value="KI-basierte Prädiktion" vertex="1">
           <mxGeometry height="40" width="90" x="707" y="194" as="geometry" />
         </mxCell>
         <mxCell id="1n4INfQGS9GoEl3JeVme-26" edge="1" parent="1" source="1n4INfQGS9GoEl3JeVme-14" style="endArrow=none;html=1;rounded=0;fillColor=light-dark(#01AECF,#EDEDED);strokeColor=light-dark(#01AECF,#EDEDED);strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.478;exitY=-0.086;exitDx=0;exitDy=0;exitPerimeter=0;" target="1n4INfQGS9GoEl3JeVme-23" value="">
