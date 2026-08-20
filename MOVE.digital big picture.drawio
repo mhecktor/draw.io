@@ -438,7 +438,7 @@
             <mxPoint x="837" y="29.659999999999968" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7enUHM7ZPMpssn7wRdK-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font&gt;Kooperative Vernetzung&amp;nbsp;städtischer Datensilos&lt;/font&gt;" vertex="1">
+        <mxCell id="h7enUHM7ZPMpssn7wRdK-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" value="&lt;font&gt;Kooperative Vernetzung&amp;nbsp;&lt;br&gt;städtischer Datensilos&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="331" x="19" y="150" as="geometry" />
         </mxCell>
         <mxCell id="h7enUHM7ZPMpssn7wRdK-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
