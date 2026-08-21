@@ -441,12 +441,6 @@
         <mxCell id="h7enUHM7ZPMpssn7wRdK-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" value="&lt;font&gt;Kooperative Vernetzung&amp;nbsp;&lt;br&gt;städtischer Datensilos&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="331" x="19" y="148" as="geometry" />
         </mxCell>
-        <mxCell id="h7enUHM7ZPMpssn7wRdK-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="550" y="373" as="sourcePoint" />
-            <mxPoint x="600" y="323" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h7enUHM7ZPMpssn7wRdK-58" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.33333,0.5],[0,1],[1,0.66667],[1,0.33333]];polyCurves=[[],[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillColor=light-dark(#01AECF,#01AECFB3);strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="96" width="49" x="361" y="299" as="geometry" />
         </mxCell>
