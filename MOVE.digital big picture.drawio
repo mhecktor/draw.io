@@ -256,7 +256,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h7enUHM7ZPMpssn7wRdK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#01AECF33,#01AECF33);strokeColor=#01AECF;dashed=1;dashPattern=8 8;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="334" width="331" x="19" y="180" as="geometry" />
+          <mxGeometry height="327" width="331" x="19" y="187" as="geometry" />
         </mxCell>
         <mxCell id="h7enUHM7ZPMpssn7wRdK-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.565;exitY=0.156;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=light-dark(#01AECF,#EDEDED);strokeColor=light-dark(#01AECF,#EDEDED);strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="h7enUHM7ZPMpssn7wRdK-49" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h7enUHM7ZPMpssn7wRdK-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" value="&lt;font&gt;Kooperative Vernetzung&amp;nbsp;&lt;br&gt;städtischer Datensilos&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="331" x="19" y="143" as="geometry" />
+          <mxGeometry height="30" width="331" x="19" y="148" as="geometry" />
         </mxCell>
         <mxCell id="h7enUHM7ZPMpssn7wRdK-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
