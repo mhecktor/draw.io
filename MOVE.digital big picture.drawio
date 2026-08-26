@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="KBjH9gZSWi5KAE7XKy8u">
-    <mxGraphModel dx="428" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1731" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,12 +214,6 @@
         <mxCell id="r8oO9KdHS45WffceA6EU-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;Kooperative Vernetzung&amp;nbsp;&lt;br&gt;städtischer Datensilos&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="331" x="19" y="399" as="geometry" />
         </mxCell>
-        <mxCell id="r8oO9KdHS45WffceA6EU-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="550" y="440" as="sourcePoint" />
-            <mxPoint x="600" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r8oO9KdHS45WffceA6EU-55" parent="1" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.33333,0.5],[0,1],[1,0.66667],[1,0.33333]];polyCurves=[[],[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillColor=light-dark(#01AECF,#01AECFB3);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="96" width="49" x="361" y="366" as="geometry" />
         </mxCell>
@@ -230,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yK2z-DxNk1WMZArLT8xx" name="Page-2">
-    <mxGraphModel dx="824" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1731" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
