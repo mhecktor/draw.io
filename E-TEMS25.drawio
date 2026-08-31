@@ -2667,35 +2667,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BwogP0yU4dOsXalrZPy6-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#666666;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=24;fontStyle=1;resizable=1;fillColor=#f5f5f5;fontColor=#333333;" value="C1" vertex="1">
+          <mxGeometry height="350" width="350" x="15" y="15" as="geometry" />
+        </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#6c8ebf;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=24;fontStyle=1;resizable=1;fillColor=#dae8fc;" value="C2" vertex="1">
-          <mxGeometry height="280" width="280" as="geometry" />
+          <mxGeometry height="280" width="280" x="50" y="50" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#82b366;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=24;fontStyle=1;resizable=1;fillColor=#d5e8d4;" value="C3" vertex="1">
-          <mxGeometry height="210" width="210" x="35" y="35" as="geometry" />
+          <mxGeometry height="210" width="210" x="85" y="85" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#d79b00;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=24;fontStyle=1;resizable=1;fillColor=#ffe6cc;" value="C4" vertex="1">
-          <mxGeometry height="140" width="140" x="70" y="70" as="geometry" />
+          <mxGeometry height="140" width="140" x="120" y="120" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" value="A" vertex="1">
-          <mxGeometry height="30" width="30" x="52" y="27" as="geometry" />
+          <mxGeometry height="30" width="30" x="102" y="77" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" value="B" vertex="1">
-          <mxGeometry height="30" width="30" x="69" y="58" as="geometry" />
+          <mxGeometry height="30" width="30" x="119" y="108" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=east;" value="C" vertex="1">
-          <mxGeometry height="50" width="50" x="49" y="115" as="geometry" />
+          <mxGeometry height="50" width="50" x="99" y="165" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" value="D" vertex="1">
-          <mxGeometry height="34" width="34" x="123" y="105" as="geometry" />
+          <mxGeometry height="34" width="34" x="173" y="155" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" value="E" vertex="1">
-          <mxGeometry height="50" width="50" x="82" y="176" as="geometry" />
+          <mxGeometry height="50" width="50" x="132" y="226" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=east;" value="F" vertex="1">
-          <mxGeometry height="34" width="34" x="162" y="122" as="geometry" />
+          <mxGeometry height="34" width="34" x="212" y="172" as="geometry" />
         </mxCell>
         <mxCell id="hU1HekPE3MGUT3-pw3gE-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=east;" value="G" vertex="1">
-          <mxGeometry height="73" width="73" x="155" y="172" as="geometry" />
+          <mxGeometry height="73" width="73" x="205" y="222" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
